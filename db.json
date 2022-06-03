@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "Name": "Shivam",
+      "Age": "23",
+      "Address": "nagar",
+      "Depar": "Math",
+      "Salary": "15000",
+      "MaritalState": true,
+      "Profile": "",
+      "id": 1
+    },
+    {
+      "Name": "Shivam",
+      "Age": "24",
+      "Address": "pune",
+      "Depar": "Phy",
+      "Salary": "18000",
+      "MaritalState": false,
+      "Profile": "",
+      "id": 2
+    }
+  ]
+}

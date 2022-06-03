@@ -1,0 +1,52 @@
+body{
+  background: black;
+  color: black;
+}
+.App {
+  /* text-align: center; */
+  display: flex;
+  justify-content: space-around;
+  /* background-color: aqua; */
+}
+.App> div{
+  margin-top: 15px;
+  padding: 20px;
+  /* border: 1px solid red; */
+}
+.form input{
+margin-bottom: 10px;
+display: block;
+width: 100%;
+border: 1px solid !important;
+}
+.form button{
+  width: 100%;
+  /* border: 0px; */
+  height: 40px;
+  margin-top: 20px;
+}
+.selectdepart{
+  width: 100%;
+  margin-bottom: 10px;
+  }
+
+.left{
+  border-radius: 10px;
+  background-color: white;
+  /* border: 2px solid red; */
+}
+.left input, select, button {
+  background: rgb(255, 255, 255);
+  border: 1px solid rgb(255, 255, 255);
+  outline: none;
+}
+.table{
+  /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+  background-color: white;
+  border-radius: 10px;
+  padding-bottom: 30px;
+}
+.checkboxui{
+  width: 15px !important
+}
+
